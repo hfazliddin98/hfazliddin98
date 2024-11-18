@@ -24,8 +24,8 @@ Frontend developer
 </p>
 
 ## GitHub statistics
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nodirbek27&show_icons=true&locale=en&layout=compact" alt="nodirbek27" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hfazliddin98&show_icons=true&locale=en&layout=compact" alt="hfazliddin98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nodirbek27&show_icons=true&locale=en" alt="nodirbek27" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hfazliddin98&show_icons=true&locale=en" alt="hfazliddin98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nodirbek27&" alt="nodirbek27" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hfazliddin98&" alt="hfazliddin98" /></p>
